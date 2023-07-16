@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Griffy&family=Space+Mono:wght@400;700&display=swap');
+
+*{
+    font-family: 'Space Mono', monospace;   
+}
+
+
 section{
     background-color: #FFFFFF;
     width: 100%;
